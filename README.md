@@ -1,7 +1,15 @@
 # Spring-Boot-payment-and-order-Microservices
 payment and Order Services
 
+# Book-Store:
 
+server:
+  port: 8080
+spring:
+  h2:
+    console:
+      enabled: true
+      
 # Payment-Service:
 
 server:
