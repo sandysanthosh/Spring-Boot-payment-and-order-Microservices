@@ -27,3 +27,8 @@ spring:
   h2:
     console:
       enabled: true
+      
+      
+      Refer:
+      
+      https://github.com/Java-Techie-jt/spring-cloud-gatway-hystrix/tree/master/spring-cloud-gateway-hystrix-master
