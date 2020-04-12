@@ -32,3 +32,9 @@ spring:
       Refer:
       
       https://github.com/Java-Techie-jt/spring-cloud-gatway-hystrix/tree/master/spring-cloud-gateway-hystrix-master
+
+Spring boot full tutorials:
+
+https://mkyong.com/tutorials/spring-boot-tutorials/
+
+
